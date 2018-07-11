@@ -1,7 +1,8 @@
 Rails.application.routes.draw do
   root "posts#index"
   get "posts/index"
-  eldydhdhddhdhdhdhd
+  
+  # 주석을 달고 master에 push를 할거야
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
